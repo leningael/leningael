@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align = "center">
+  <img src = "https://studio.code.org/v3/assets/vuNo7tyykuCe9jPv2rZeq9YHW91p50BUj5LNgsDJF4U/Boss_Isaac.gif" width = "250">
+</div>
+
 <!--
 **leningael/leningael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
